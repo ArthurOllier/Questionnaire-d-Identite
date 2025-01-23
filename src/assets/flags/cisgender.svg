@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="560" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bandes bleues -->
+  <rect width="800" height="80" y="0" fill="#0066FF"/>
+  <rect width="800" height="80" y="80" fill="#0099FF"/>
+  <rect width="800" height="80" y="160" fill="#00CCFF"/>
+  
+  <!-- Bande blanche -->
+  <rect width="800" height="80" y="240" fill="#FFFFFF"/>
+  
+  <!-- Bandes roses -->
+  <rect width="800" height="80" y="320" fill="#FF99CC"/>
+  <rect width="800" height="80" y="400" fill="#FF3399"/>
+  <rect width="800" height="80" y="480" fill="#CC0066"/>
+  <rect width="800" height="80" y="480" fill="#990033"/>
+</svg>
